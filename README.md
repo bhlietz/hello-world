@@ -1,2 +1,3 @@
 # hello-world
-I don't know why I am doing this
+
+The person in the example claims to have had tacos on the moon. I'm jealous.
